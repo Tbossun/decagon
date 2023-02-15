@@ -1,0 +1,27 @@
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\bin\Debug\QueueClass.dll
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\bin\Debug\QueueClass.pdb
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\bin\Debug\ClassLibrary2.dll
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\bin\Debug\ClassLibrary2.pdb
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.csproj.CopyComplete
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.dll
+C:\Users\hp\source\repos\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.pdb
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\bin\Debug\QueueClass.dll
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\bin\Debug\QueueClass.pdb
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\bin\Debug\ClassLibrary2.dll
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\bin\Debug\ClassLibrary2.pdb
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.csproj.CopyComplete
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.dll
+C:\Users\hp\Desktop\C# week 2\week-2-PrinceJK\QueueClass\obj\Debug\QueueClass.pdb
+C:\Users\hp\Desktop\John\QueueClass\bin\Debug\QueueClass.dll
+C:\Users\hp\Desktop\John\QueueClass\bin\Debug\QueueClass.pdb
+C:\Users\hp\Desktop\John\QueueClass\bin\Debug\ClassLibrary2.dll
+C:\Users\hp\Desktop\John\QueueClass\bin\Debug\ClassLibrary2.pdb
+C:\Users\hp\Desktop\John\QueueClass\obj\Debug\QueueClass.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\John\QueueClass\obj\Debug\QueueClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\John\QueueClass\obj\Debug\QueueClass.csproj.CopyComplete
+C:\Users\hp\Desktop\John\QueueClass\obj\Debug\QueueClass.dll
+C:\Users\hp\Desktop\John\QueueClass\obj\Debug\QueueClass.pdb
